@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YfeJPs+FC7U+lwO2hxccZmBsf+1eyCLkFeczWEkmKFhUpw91ADeVd+boExEDWM2awVJ5S6oaDFBRP/dTFfNJMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\My Projects\\repos\\LibaryManagement\\BookLibrary.Entity\\BookLibrary.Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

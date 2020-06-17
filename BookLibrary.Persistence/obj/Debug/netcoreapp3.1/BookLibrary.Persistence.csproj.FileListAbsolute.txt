@@ -1,0 +1,12 @@
+C:\Users\PC\My Projects\repos\LibaryManagement\BookLibrary.Persistence\bin\Debug\netcoreapp3.1\BookLibrary.Persistence.deps.json
+C:\Users\PC\My Projects\repos\LibaryManagement\BookLibrary.Persistence\bin\Debug\netcoreapp3.1\BookLibrary.Persistence.dll
+C:\Users\PC\My Projects\repos\LibaryManagement\BookLibrary.Persistence\bin\Debug\netcoreapp3.1\BookLibrary.Persistence.pdb
+C:\Users\PC\My Projects\repos\LibaryManagement\BookLibrary.Persistence\obj\Debug\netcoreapp3.1\BookLibrary.Persistence.csprojAssemblyReference.cache
+C:\Users\PC\My Projects\repos\LibaryManagement\BookLibrary.Persistence\obj\Debug\netcoreapp3.1\BookLibrary.Persistence.AssemblyInfoInputs.cache
+C:\Users\PC\My Projects\repos\LibaryManagement\BookLibrary.Persistence\obj\Debug\netcoreapp3.1\BookLibrary.Persistence.AssemblyInfo.cs
+C:\Users\PC\My Projects\repos\LibaryManagement\BookLibrary.Persistence\obj\Debug\netcoreapp3.1\BookLibrary.Persistence.dll
+C:\Users\PC\My Projects\repos\LibaryManagement\BookLibrary.Persistence\obj\Debug\netcoreapp3.1\BookLibrary.Persistence.pdb
+C:\Users\PC\My Projects\repos\LibaryManagement\BookLibrary.Persistence\bin\Debug\netcoreapp3.1\BookLibrary.Entity.dll
+C:\Users\PC\My Projects\repos\LibaryManagement\BookLibrary.Persistence\bin\Debug\netcoreapp3.1\BookLibrary.Entity.pdb
+C:\Users\PC\My Projects\repos\LibaryManagement\BookLibrary.Persistence\obj\Debug\netcoreapp3.1\BookLibrary.Persistence.csproj.CopyComplete
+C:\Users\PC\My Projects\repos\LibaryManagement\BookLibrary.Persistence\obj\Debug\netcoreapp3.1\BookLibrary.Persistence.csproj.CoreCompileInputs.cache

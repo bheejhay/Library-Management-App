@@ -1,0 +1,14 @@
+C:\Users\PC\My Projects\repos\LibaryManagement\BookLibrary.Services\bin\Debug\netcoreapp3.1\BookLibrary.Services.deps.json
+C:\Users\PC\My Projects\repos\LibaryManagement\BookLibrary.Services\bin\Debug\netcoreapp3.1\BookLibrary.Services.dll
+C:\Users\PC\My Projects\repos\LibaryManagement\BookLibrary.Services\bin\Debug\netcoreapp3.1\BookLibrary.Services.pdb
+C:\Users\PC\My Projects\repos\LibaryManagement\BookLibrary.Services\obj\Debug\netcoreapp3.1\BookLibrary.Services.AssemblyInfoInputs.cache
+C:\Users\PC\My Projects\repos\LibaryManagement\BookLibrary.Services\obj\Debug\netcoreapp3.1\BookLibrary.Services.AssemblyInfo.cs
+C:\Users\PC\My Projects\repos\LibaryManagement\BookLibrary.Services\obj\Debug\netcoreapp3.1\BookLibrary.Services.csproj.CoreCompileInputs.cache
+C:\Users\PC\My Projects\repos\LibaryManagement\BookLibrary.Services\obj\Debug\netcoreapp3.1\BookLibrary.Services.dll
+C:\Users\PC\My Projects\repos\LibaryManagement\BookLibrary.Services\obj\Debug\netcoreapp3.1\BookLibrary.Services.pdb
+C:\Users\PC\My Projects\repos\LibaryManagement\BookLibrary.Services\bin\Debug\netcoreapp3.1\BookLibrary.Entity.dll
+C:\Users\PC\My Projects\repos\LibaryManagement\BookLibrary.Services\bin\Debug\netcoreapp3.1\BookLibrary.Persistence.dll
+C:\Users\PC\My Projects\repos\LibaryManagement\BookLibrary.Services\bin\Debug\netcoreapp3.1\BookLibrary.Entity.pdb
+C:\Users\PC\My Projects\repos\LibaryManagement\BookLibrary.Services\bin\Debug\netcoreapp3.1\BookLibrary.Persistence.pdb
+C:\Users\PC\My Projects\repos\LibaryManagement\BookLibrary.Services\obj\Debug\netcoreapp3.1\BookLibrary.Services.csprojAssemblyReference.cache
+C:\Users\PC\My Projects\repos\LibaryManagement\BookLibrary.Services\obj\Debug\netcoreapp3.1\BookLibrary.Services.csproj.CopyComplete
